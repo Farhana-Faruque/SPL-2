@@ -1,0 +1,17 @@
+For the video recorder,
+IP_10.160.40.2
+SM_255.255.255.224
+GW_10.160.40.1
+
+
+User : admin 
+password : iit12345
+
+For this laptop, 
+IP_10.160.40.3
+SM_255.255.255.224
+GW_10.160.40.2
+
+
+For changing the ethernet part 
+ncpl.cpl (in commands panel) in ethernet part click in properties and change the ips accordingly of laptop obviously.
